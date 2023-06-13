@@ -64,6 +64,7 @@ nav {
   padding: 25px;
   width: 100vw;
   background: rgb(255 255 255 / 50%);
+  top: 0;
 }
 
 a {
@@ -83,6 +84,7 @@ a:focus {
 /* Home Section */
 .title-group {
   text-align: center;
+  margin-top: 19%;
 }
 
 /* About Section */
